@@ -4,7 +4,7 @@
 	<text name="mainmap_buttons_01_intro"><![CDATA[INTRO]]></text>
 	<text name="mainmap_buttons_02_help"><![CDATA[HELP]]></text>
 	<text name="mainmap_buttons_03_labor"><![CDATA[LABORATORY]]></text>
-	<text name="mainmap_buttons_04_feedback"><![CDATA[FEEDBACK]]></text>
+	<!--<text name="mainmap_buttons_04_feedback"><![CDATA[FEEDBACK]]></text>-->
 	<text name="mainmap_buttons_05_mainmap"><![CDATA[OVERVIEW]]></text>
 	<text name="mainmap_buttons_06_credits"><![CDATA[CREDITS]]></text>
 
