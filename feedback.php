@@ -1,3 +1,4 @@
 <?php
-  echo "Thanks for your feedback on Mission In Snowdriftland.";  
+  header("Location: https://snowdriftland-one.vercel.app/");
+  exit();
 ?>
