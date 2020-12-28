@@ -2,7 +2,7 @@
 <texte>
 
 	<text name="labor_greeting_01_headline"><![CDATA[HELLO CHUBBY SNOW!]]></text>
-	<text name="labor_greeting_02_copy"><![CDATA[SO FAR YOU'VE GATHERED <games_number> OUT<br />OF 24 GAME FILES.]]></text>
+	<text name="labor_greeting_02_copy"><![CDATA[TEST SO FAR YOU'VE GATHERED <games_number> OUT<br />OF 24 GAME FILES.]]></text>
 	<text name="labor_greeting_03_elpix"><![CDATA[GREAT WORK CHUBBY! WITH YOUR HELP WE FOUND EVERY MISSING GAME FILE.]]></text>
 	
 	<text name="labor_downloads_01_headline"><![CDATA[THANKS FOR HELPING CHUBBY!]]></text>
