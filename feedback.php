@@ -1,5 +1,5 @@
 <?php
-  if (isset($_POST["name"] && isset($_POST["message"])) {
+  if (isset($_POST["name"]) && isset($_POST["message"])) {
     ?>
   <head>
   </head>
