@@ -8,7 +8,7 @@
 	<text name="mainmap_buttons_05_mainmap"><![CDATA[OVERVIEW]]></text>
 	<text name="mainmap_buttons_06_credits"><![CDATA[CREDITS]]></text>
 
-	<text name="mainmap_info_01_date"><![CDATA[Don’t worry - Mission in Snowdriftland will be available online until January 14th.]]></text>
+	<text name="mainmap_info_01_date"><![CDATA[Don’t worry - Mission in Snowdriftland will be available online until <font color="f54242">January 14th</font>.]]></text>
 	
 	<text name="mainmap_footer_01_impressum"><![CDATA[TERMS OF USE]]></text>
 	<text name="mainmap_footer_02_copyright"><![CDATA[© 2000-2006 NINTENDO AND EXTRA TOXIC. ALL RIGHTS RESERVED.]]></text>
