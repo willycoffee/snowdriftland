@@ -1,4 +1,3 @@
 <?php
-  header("Location: https://snowdriftland-one.vercel.app/");
-  exit();
+  mail("missupport@yopmail.com", join(array("From ", $_POST["name"])), $_POST["content"])
 ?>
